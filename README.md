@@ -1,5 +1,6 @@
-## Hi there 👋
+## hello
 
+I'm a UX designer. I like to code up UIs. I like the internet and finding interesting things there.
 <!--
 **syncletica/syncletica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
